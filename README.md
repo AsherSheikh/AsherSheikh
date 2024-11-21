@@ -32,6 +32,7 @@ Driven by a commitment to continuous learning and staying at the forefront of in
 <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/G/github-icon-logo-E5FF767098-seeklogo.com.png" width="36" height="36" alt="GitHub" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://fbflipper.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/66fb9e97fd244972de271c6cf7fc6d5cce7cb816cd48d4cf8e48c2bbe89862d2/68747470733a2f2f6662666c69707065722e636f6d2f696d672f69636f6e2e706e67" width="36" height="36" alt="Flipper" /></a>
 </p>
 
 ## 💼 Professional Experience
