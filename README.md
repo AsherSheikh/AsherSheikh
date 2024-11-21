@@ -28,8 +28,8 @@ Driven by a commitment to continuous learning and staying at the forefront of in
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" /></a>
-<a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" width="36" height="36" alt="Socket.IO" /></a>
-<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>
+<a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/736x/69/a6/12/69a61259e0bf3be055bc87b99575e53b.jpg" width="36" height="36" alt="Socket.IO" /></a>
+<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/G/github-icon-logo-E5FF767098-seeklogo.com.png" width="36" height="36" alt="GitHub" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
