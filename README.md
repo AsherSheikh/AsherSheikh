@@ -1,11 +1,21 @@
 # Hi there! I'm Asher Sheikh 👋
 
 ## About Me
-Skilled React Native Developer with a passion for creating cross-platform mobile applications. Combining technical expertise with innovative problem-solving to deliver high-performance mobile solutions.
+Skilled React Native Developer with a strong passion for building high-quality, cross-platform mobile applications that provide seamless user experiences. Proficient in leveraging modern technologies, including React Native, JavaScript/TypeScript, and native integrations, to design, develop, and deploy scalable and maintainable mobile solutions.
+
+With a proven track record of innovative problem-solving, I excel at translating complex requirements into robust features, optimizing application performance, and ensuring compatibility across diverse devices and platforms. Dedicated to following best practices in code quality, architecture, and testing, I thrive in collaborative team environments while also being highly capable of managing independent projects.
+
+Key strengths include:
+
+Expertise in React Native CLI, state management tools like Redux and Context API, and navigation libraries like React Navigation.
+Hands-on experience with third-party services, APIs, and libraries to extend app functionality.
+Knowledge of native module development for iOS (Swift) and Android (Kotlin/Java), enabling seamless native integrations.
+Proficiency in debugging, performance tuning, and implementing CI/CD pipelines for efficient deployment.
+Deep understanding of UI/UX principles, ensuring intuitive and responsive app interfaces.
+Driven by a commitment to continuous learning and staying at the forefront of industry advancements, I take pride in delivering solutions that not only meet but exceed user and business expectations.
 
 ## 🚀 Professional Skills
-### Skills 
-### Skills 
+
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -25,13 +35,13 @@ Skilled React Native Developer with a passion for creating cross-platform mobile
 </p>
 
 ## 💼 Professional Experience
-### Senior Software Engineer at HashOne Digital (Nov 2021 - Present)
+### Senior Software Engineer at HashOne Digitals Pvt. (Nov 2021 - Present)
 - Designing and developing cross-platform mobile applications
 - Ensuring app performance and responsiveness
 - Integrating APIs and services
-- Collaborating with design and product teams
+- Collaborating with designers, product mangers, and developers to deliver hight-quality mobile solutions
 
-### React Native Developer at Kahood Digitals Inc. (Nov 2020 - Oct 2021)
+### React Native Developer at Kahoo Digitals Inc. (Nov 2020 - Oct 2021)
 - Implemented responsive UI designs
 - Developed mobile applications using React Native
 - Maintained high-quality code standards
@@ -61,7 +71,6 @@ PAF-KIET College of Computer Science (2015-2019)
 
 ## 📫 Connect with Me
 - Email: asherxheikh@gmail.com
-- LinkedIn: [Profile Link]
+- LinkedIn: [[Profile Link]](https://www.linkedin.com/in/mashersheikh/)
 - GitHub: [@AsherSheikh](https://github.com/AsherSheikh)
 
-*Passionate about creating innovative mobile solutions and continuously learning new technologies.*
