@@ -5,7 +5,7 @@ Skilled React Native Developer with a strong passion for building high-quality, 
 
 With a proven track record of innovative problem-solving, I excel at translating complex requirements into robust features, optimizing application performance, and ensuring compatibility across diverse devices and platforms. Dedicated to following best practices in code quality, architecture, and testing, I thrive in collaborative team environments while also being highly capable of managing independent projects.
 
-Key strengths include:
+## 🚀 Mobile Developer – React Native Specialist
 
 Expertise in React Native CLI and Expo with state management tools like Redux and Context API, and navigation libraries like React Navigation.
 Hands-on experience with third-party services, APIs, and libraries to extend app functionality.
@@ -13,6 +13,8 @@ Knowledge of native module development for iOS (Swift) and Android (Kotlin/Java)
 Proficiency in debugging, performance tuning, and implementing CI/CD pipelines for efficient deployment.
 Deep understanding of UI/UX principles, ensuring intuitive and responsive app interfaces.
 Driven by a commitment to continuous learning and staying at the forefront of industry advancements, I take pride in delivering solutions that not only meet but exceed user and business expectations.
+
+---
 
 ## 🚀 Professional Skills
 
