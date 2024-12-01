@@ -70,10 +70,6 @@ Driven by a commitment to continuous learning and staying at the forefront of in
 **Bachelor's in Computer Science (BS-CS)**
 PAF-KIET College of Computer Science (2015-2019)
 
-## 🏆 Awards
-- Runners Up in PROCOM Network Designing (FAST-University)
-- Winner of KIET Intra Battle in Network Designing (PAF-KIET)
-
 ## 📫 Connect with Me
 - Email: asherxheikh@gmail.com
 - LinkedIn: [[Profile Link]](https://www.linkedin.com/in/mashersheikh/)
