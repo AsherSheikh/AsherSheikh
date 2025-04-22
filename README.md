@@ -29,7 +29,7 @@ Driven by a commitment to continuous learning and staying at the forefront of in
   <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="36" height="36" alt="Zustand" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-standard.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-standard.svg" width="40" height="50" alt="Firebase" /></a>
 <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" /></a>
 <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/736x/69/a6/12/69a61259e0bf3be055bc87b99575e53b.jpg" width="36" height="36" alt="Socket.IO" /></a>
 <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" width="36" height="36" alt="GitHub" /></a>
