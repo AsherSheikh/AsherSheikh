@@ -40,7 +40,7 @@ Driven by a commitment to continuous learning and staying at the forefront of in
 </p>
 
 ## 💼 Professional Experience
-### Senior Software Engineer at HashOne Digitals Pvt. (Nov 2021 - Present)
+### Software Engineer at HashOne Digitals Pvt. (Nov 2021 - Present)
 - Designing and developing cross-platform mobile applications
 - Ensuring app performance and responsiveness
 - Integrating APIs and services
