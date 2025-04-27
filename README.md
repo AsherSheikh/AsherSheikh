@@ -10,7 +10,7 @@ With a proven track record of innovative problem-solving, I excel at translating
 Expertise in React Native CLI and Expo with state management tools like Redux and Context API, and navigation libraries like React Navigation.
 Hands-on experience with third-party services, APIs, and libraries to extend app functionality.
 Knowledge of native module development for iOS (Swift) and Android (Kotlin/Java), enabling seamless native integrations.
-Proficiency in debugging, performance tuning, and implementing CI/CD pipelines for efficient deployment.
+Proficiency in debugging, performance tuning.
 Deep understanding of UI/UX principles, ensuring intuitive and responsive app interfaces.
 Driven by a commitment to continuous learning and staying at the forefront of industry advancements, I take pride in delivering solutions that not only meet but exceed user and business expectations.
 
