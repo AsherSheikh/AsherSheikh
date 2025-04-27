@@ -1,4 +1,4 @@
-# Hi there! I'm Asher Sheikh 👋
+# Hi there! I'm Muhammad Asher Sheikh 👋
 
 ## About Me
 Skilled React Native Developer with a strong passion for building high-quality, cross-platform mobile applications that provide seamless user experiences. Proficient in leveraging modern technologies, including React Native, JavaScript/TypeScript, and native integrations, to design, develop, and deploy scalable and maintainable mobile solutions.
